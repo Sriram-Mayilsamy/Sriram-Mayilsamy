@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuvaraj</h1>
+<h1 align="center">Hi 👋, I'm Sriram M</h1>
 <h3 align="center">Full Stack Developer and App Developer</h3>
 
 <p align="center">
@@ -10,11 +10,11 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 I’m currently pursuing **B.E. Computer Science** at *Sri Krishna College of Engineering and Technology* (2027).
-- 🔭 I’m currently working on: [Expense Tracker App](https://github.com/Yuvi-97/Expense-Tracker-App)
+- 🔭 I’m currently working on: [Expense Tracker App](https://github.com/Sriram-Mayilsamy/Expense-Tracker-App)
 - 🌱 I’m improving my skills in **Competitive Programming**
 - 💬 Ask me about **React, Node.js, Spring Boot, and C++**
 - 📫 How to reach me: **yuviy2006@gmail.com**
-- 💼 LinkedIn: [Yuvaraj](http://www.linkedin.com/in/yuvaraj-yuvi97)
+- 💼 LinkedIn: [Sriram M](http://www.linkedin.com/in/yuvaraj-yuvi97)
 
 ---
 
@@ -61,8 +61,8 @@
 ### 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvi-97&show_icons=true&theme=radical" alt="Yuvaraj GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvi-97&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriram-Mayilsamy&show_icons=true&theme=radical" alt="Sriram GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-Mayilsamy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -74,7 +74,6 @@
   <a href="https://codeforces.com/profile/yuvi_97"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://www.codechef.com/users/yuvi_97"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
-
 
 ---
 
